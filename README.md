@@ -1,10 +1,10 @@
 # NetPay Pro - Modern Billing & Financial Management System
 
 > **Modern, Offline-First ISP & Cable TV Bill Collection and Subscriber Management System**  
-> Developed with ❤️ by **Khalid Software House** | GitHub: [@khdcoder](https://github.com/khdcoder)  
-> Repository: [github.com/khdcoder/net-pay-pro](https://github.com/khdcoder/net-pay-pro)
+> Developed with ❤️ by **Khalid Software House** | GitHub: [@khdxsohee](https://github.com/khdxsohee)  
+> Repository: [github.com/khdxsohee/net-pay-pro](https://github.com/khdxsohee/net-pay-pro)
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/khdcoder/net-pay-pro)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/khdxsohee/net-pay-pro)
 [![Angular Version](https://img.shields.io/badge/Angular-21.x-dd0031.svg?style=flat&logo=angular)](https://angular.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178c6.svg?style=flat&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.x-38bdf8.svg?style=flat&logo=tailwind-css)](https://tailwindcss.com/)
@@ -92,7 +92,7 @@ Make sure you have **Node.js** (v18.x or later) and **npm** installed on your sy
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/khdcoder/net-pay-pro.git
+git clone https://github.com/khdxsohee/net-pay-pro.git
 cd net-pay-pro
 ```
 
@@ -209,7 +209,7 @@ net-pay-pro/
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!  
-Feel free to check the [issues page](https://github.com/khdcoder/net-pay-pro/issues).
+Feel free to check the [issues page](https://github.com/khdxsohee/net-pay-pro/issues).
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -227,8 +227,8 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 ## 👨‍💻 Author & Credits
 
-- **Developer:** Khalid Mahmood ([@khdcoder](https://github.com/khdcoder))
+- **Developer:** Khalid Mahmood ([@khdxsohee](https://github.com/khdxsohee))
 - **Organization:** [Khalid Software House](https://khalid-software-house.web.app)
-- **Repository:** [https://github.com/khdcoder/net-pay-pro](https://github.com/khdcoder/net-pay-pro)
+- **Repository:** [https://github.com/khdxsohee/net-pay-pro](https://github.com/khdxsohee/net-pay-pro)
 
 *If this project helps your business or organization, don't forget to give it a ⭐ on GitHub!*
